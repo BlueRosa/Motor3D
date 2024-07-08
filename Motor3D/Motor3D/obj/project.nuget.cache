@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3EGaC7ez7xhbhNZKJmohtZm0UXac589A/LOBSahHg2WNmFSdtPZWNLiawK3csm9kyBehbO7Mossm7Ga6lafww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\legre\\Documents\\Motor3D\\Motor3D\\Motor3D\\Motor3D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\legre\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\legre\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
